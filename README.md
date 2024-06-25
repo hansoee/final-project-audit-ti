@@ -3,6 +3,7 @@
 
 ### Dataset yang digunakan
 https://data.4tu.nl/articles/dataset/Conformance_Checking_Challenge_2019_CCC19_/12714932/1
+--> Download dataset, ekstrak zip dan masukkan ke folder /data
 
 ### Referensi Utama
 - Process Mining and Root Cause Analysis for Detecting Inefficiencies in Business Processes: an Applied Case in a Brazilian Telecommunications Provider.  (2023). doi: 10.1109/cscwd57460.2023.10152780
